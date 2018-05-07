@@ -1,5 +1,7 @@
 # meteor_1.6.2_break_coffeescript
 
+Version of meteor: 9fc0251eeeaea096113743e9ebd68fe50a714118 - Mon May 7 17:02:25 2018 +0200
+
 Error when adding tap:i18n
 
 ➜  test git:(master) ✗ ../meteor/meteor add tap:i18n 
